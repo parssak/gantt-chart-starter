@@ -1,5 +1,5 @@
 import React from "react";
-import { getColorFromString } from "@parssa/universal-ui";
+// import { getColorFromString } from "@parssa/universal-ui";
 
 type DivProps = React.HTMLAttributes<HTMLDivElement>;
 
